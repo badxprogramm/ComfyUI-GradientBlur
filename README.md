@@ -80,25 +80,13 @@ GradientBlurNode is a custom node for ComfyUI that enables gradient-based image 
 - Adding depth effects to landscapes.
 - Focusing attention on specific parts of an image using directional blur.
 
-## Installation
-
-1. Copy `gradient_blur_node.py` into your ComfyUI `custom_nodes` folder.
-2. Restart ComfyUI.
-3. Find the `GradientBlurNode` in the `image/blur` category.
-
-## Dependencies
-
-- Python 3.8+
-- PyTorch
-- ComfyUI
-
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code in accordance with the license terms.
 
 ## Author
 
-[Your Name or Username]
+Badxprogramm
 
 ## Acknowledgments
 
