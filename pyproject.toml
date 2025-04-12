@@ -1,0 +1,14 @@
+[project]
+name = "gradientblur"
+description = "GradientBlurNode is a custom node for ComfyUI that allows for gradient-based image blurring. This tool provides precise control over the direction, intensity, and distribution of the blur, making it ideal for creating smooth transitions, focusing attention on specific parts of an image, or adding artistic effects."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/badxprogramm/ComfyUI-GradientBlur"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-GradientBlur"
+Icon = ""
